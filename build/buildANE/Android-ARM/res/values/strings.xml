@@ -1,0 +1,130 @@
+<resources>
+
+    <string name="flsdk_app_name">GameHelper</string>
+    <string name="flsdk_hello_world">Hello world!</string>
+    <string name="flsdk_menu_settings">Settings</string>
+    
+    <string name="DW_string_0">切换帐户</string>
+  <string name="DW_string_1">当前帐户</string>
+  <string name="DW_string_2">飞流游戏中心将获得以下权限：</string>
+  <string name="DW_string_3">获得你的个人信息，好友关系</string>
+  <string name="DW_string_4">分享内容到你的微博</string>
+  <string name="DW_string_5">获得你的评论</string>
+  <string name="DW_string_6">取消</string>
+  <string name="DW_string_7">授权</string>
+  <string name="DW_string_8">切换帐户</string>
+  <string name="DW_string_9">当前帐户</string>
+  <string name="DW_string_10">飞流游戏中心将获得以下权限：</string>
+  <string name="DW_string_11">获得你的个人信息，好友关系</string>
+  <string name="DW_string_12">分享内容到你的微博</string>
+  <string name="DW_string_13">获得你的评论</string>
+  <string name="DW_string_14">取消</string>
+  <string name="DW_string_15">授权</string>
+  <string name="DW_string_16">公告</string>
+  <string name="DW_string_17">客服</string>
+  <string name="DW_string_18">邀请好友</string>
+  <string name="DW_string_19">输邀请码</string>
+  <string name="DW_string_20">帐号管理</string>
+  <string name="DW_string_21">请输入帐号</string>
+  <string name="DW_string_22">记住密码</string>
+  <string name="DW_string_23">此处出错了,请返回重新加载</string>
+  <string name="DW_string_24">返回</string>
+  <string name="DW_string_25">请输入帐号</string>
+  <string name="DW_string_26">密码为6-20个字母、数字</string>
+  <string name="DW_string_27">密码为6-20个字母、数字</string>
+  <string name="DW_string_28">温馨提示：未绑定帐号的用户请联系客服求助</string>
+  <string name="DW_string_29">温馨提示：未绑定帐号的用户请联系客服求助</string>
+  <string name="DW_string_30">公告</string>
+  <string name="DW_string_31">客服</string>
+  <string name="DW_string_32">邀请好友</string>
+  <string name="DW_string_33">输邀请码</string>
+  <string name="DW_string_34">账号管理</string>
+  <string name="DW_string_35">复制邀请码</string>
+  <string name="DW_string_36">顶顶顶顶顶顶顶顶顶顶顶</string>
+  <string name="DW_string_37">更多</string>
+  <string name="DW_string_38">登  录</string>
+  <string name="DW_string_39">登  录</string>
+  <string name="DW_string_40">记住密码</string>
+  <string name="DW_string_41">第三方帐户：</string>
+  <string name="DW_string_42">第三方帐户：</string>
+  <string name="DW_string_43">修改密码</string>
+  <string name="DW_string_44">设置帐号</string>
+  <string name="DW_string_45">注销登录</string>
+  <string name="DW_string_46">帐号安全级别</string>
+  <string name="DW_string_47">绑定手机/邮箱</string>
+  <string name="DW_string_48">当您忘记账号密码时，可通过手机/邮箱找回密码，从而降低您的损失。</string>
+  <string name="DW_string_49">修改密码</string>
+  <string name="DW_string_50">设置帐号</string>
+  <string name="DW_string_51">注销登录</string>
+  <string name="DW_string_52">帐号安全级别</string>
+  <string name="DW_string_53">绑定手机/邮箱</string>
+  <string name="DW_string_54">当您忘记账号密码时，可通过手机/邮箱找回密码，从而降低您的损失。</string>
+  <string name="DW_string_55">帐号为4-20位中or英文,数字,不能为纯数字</string>
+  <string name="DW_string_56">密码为6-20个字母、数字</string>
+  <string name="DW_string_57">帐号为4-20位中or英文,数字,不能为纯数字</string>
+  <string name="DW_string_58">密码为6-20个字母、数字</string>
+  <string name="DW_string_59">密码为6-20个字母、数字</string>
+  <string name="DW_string_60">获取验证码失败?</string>
+  <string name="DW_string_61">重新获取验证码</string>
+  <string name="DW_string_62">密码为6-20个字母、数字</string>
+  <string name="DW_string_63">获取验证码失败？</string>
+  <string name="DW_string_64">重新获取验证码</string>
+  <string name="DW_string_65">获取验证码失败？</string>
+  <string name="DW_string_66">重新获取验证码</string>
+  <string name="DW_string_67">隐形登录</string>
+  <string name="DW_string_68">登录飞流账号</string>
+  <string name="DW_string_69">.</string>
+  <string name="DW_string_70">name</string>
+  <string name="DW_string_71">注 册</string>
+  <string name="DW_string_72">该帐号已被使用，您可以选择：</string>
+  
+  <string name="DW_string_73">"确定"</string>
+  
+	<string name="activity_remote_service_binding">AppDemo4</string>
+	<string name="remote_call_failed">Failure calling remote service</string>
+       
+	<string name="partnerHint">"partner"</string>
+	<string name="sellerHint">"seller"</string>
+	<string name="out_trade_noHint">"out_trade_no"</string>
+	<string name="subjectHint">"subject"</string>
+	<string name="bodyHint">"body"</string>
+	<string name="total_feeHint">"total_fee"</string>
+	<string name="notify_urlHint">"notify_url"</string>
+	<string name="charsetHint">"charset"</string>
+	<string name="signTypeHint">"signType"</string>
+	
+	<string name="confirm_install_hint">"安装提示"</string>	
+	<string name="confirm_install">"为保证您的交易安全，需要您安装支付宝安全支付服务，才能进行付款。\n\n点击确定，立即安装。"</string>
+	
+	
+	<string name="Ensure">"确定"</string>
+	<string name="Cancel">"取消"</string>
+	<string name="check_sign_failed">您的订单信息已被非法篡改。</string>
+
+    <!-- begin -->
+    <string name="flsdk_game_html_template_begin">
+<![CDATA[
+		<!DOCTYPE html>
+		<html>
+		<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta charset="utf-8">
+		<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+		<meta content="telephone=no" name="format-detection">
+		<style type="text/css">
+		html,body,div,ul,li,img{ margin:0; padding:0;}
+		body img{max-width:90%;}
+		body{padding:10px;}
+		</style>
+		<body>
+	]]>
+    </string>
+    
+    <!-- end -->
+    <string name="flsdk_game_html_template_end">
+<![CDATA[
+    	</body></html>
+    ]]>
+    </string>
+
+</resources>

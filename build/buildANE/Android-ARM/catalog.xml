@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/feiliu/ane/FeiliuEvents" mod="1367997205671" signatureChecksum="3087226367" >
+        <def id="com.feiliu.ane:FeiliuEvents" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/feiliu/ane/FeiliuExtension" mod="1370759182250" signatureChecksum="4068078989" >
+        <def id="com.feiliu.ane:FeiliuExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_7957d0acafa50c04c61d88cb8d9cc1ce0cfd4ee46fa271743914189383420b1d_flash_display_Sprite" mod="1370759183890" signatureChecksum="4198922983" >
+        <def id="_7957d0acafa50c04c61d88cb8d9cc1ce0cfd4ee46fa271743914189383420b1d_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="579104755f93c7a17f258f6e8c707f4f8da3fef1483f0bfa5fa3915a316444f1"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
